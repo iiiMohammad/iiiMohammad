@@ -20,5 +20,4 @@ libraries:["Discord.js"]
 ![Wick's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiiMohammad&show_icons=true&theme=transparent)
 
 # Discord
-<a href="https://discord.com/users/725671903267651645" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/725671903267651645">
+[My Account](https://discord.com/users/976180952302776381)
